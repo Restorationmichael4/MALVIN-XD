@@ -123,7 +123,7 @@
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     },
     
